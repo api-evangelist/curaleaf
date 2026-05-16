@@ -7,11 +7,34 @@ tags:
   - Cannabis
   - Healthcare
   - Retail
+  - Consumer Products
 description: 'The largest cannabis company in the world by revenue operating cultivation, processing, and retail dispensary operations. Operates in multiple U.S. states and international markets producing cannabis flower, pre-rolls, edibles, and vape products under leading brands.'
 created: '2026-05-05'
-modified: '2026-05-05'
+modified: '2026-05-16'
 specificationVersion: '0.19'
 apis: []
+x-no-public-api: true
+x-no-public-api-reason: >-
+  Curaleaf does not publish a public developer portal, REST API, or partner API
+  documentation. The consumer site is gated by an age-verification flow and the
+  business is run as a state-licensed retail operator rather than a developer
+  platform. Any third-party integrations (e-commerce, dispensary POS,
+  compliance/seed-to-sale, loyalty) are arranged through partners and vendors,
+  not via a self-service API program.
 common:
   - type: Website
     url: https://www.curaleaf.com/
+  - type: ShopOnline
+    url: https://www.curaleaf.com/shop
+  - type: InvestorRelations
+    url: https://ir.curaleaf.com/
+  - type: News
+    url: https://www.curaleaf.com/news
+  - type: ContactUs
+    url: https://www.curaleaf.com/contact
+  - type: PrivacyPolicy
+    url: https://www.curaleaf.com/privacy-policy
+  - type: TermsOfService
+    url: https://www.curaleaf.com/terms-of-use
+  - type: Careers
+    url: https://www.curaleaf.com/careers
