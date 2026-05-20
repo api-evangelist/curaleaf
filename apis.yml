@@ -22,6 +22,8 @@ x-no-public-api-reason: >-
   compliance/seed-to-sale, loyalty) are arranged through partners and vendors,
   not via a self-service API program.
 common:
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/curaleaf
   - type: Website
     url: https://www.curaleaf.com/
   - type: ShopOnline
