@@ -22,6 +22,10 @@ x-no-public-api-reason: >-
   compliance/seed-to-sale, loyalty) are arranged through partners and vendors,
   not via a self-service API program.
 common:
+  - type: VulnerabilityDisclosure
+    url: security/curaleaf-vulnerability-disclosure.yml
+  - type: DomainSecurity
+    url: security/curaleaf-domain-security.yml
   - type: LinkedIn
     url: https://www.linkedin.com/company/curaleaf
   - type: Website
