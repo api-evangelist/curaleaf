@@ -22,7 +22,7 @@ tags:
 description: 'The largest cannabis company in the world by revenue operating cultivation, processing, and retail dispensary operations. Operates in multiple U.S. states and international markets producing cannabis flower, pre-rolls, edibles, and vape products under leading brands.'
 created: '2026-05-05'
 modified: '2026-05-16'
-specificationVersion: '0.19'
+specificationVersion: '0.23'
 apis: []
 x-no-public-api: true
 x-no-public-api-reason: >-
